@@ -202,6 +202,9 @@ The backend runs as a Node.js/TypeScript service.
 
 ### Login
 
+![Uploading login page.png…]()
+
+
 _Add login page screenshot here._
 
 ### Dashboard
