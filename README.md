@@ -198,34 +198,6 @@ The backend runs as a Node.js/TypeScript service.
 
 ---
 
-## 📸 Screenshots
-
-### Login
-
-![Login Page](login.png)
-
-### Dashboard
-
-_Add dashboard screenshot here._
-
-### Employee Management
-
-_Add employee management screenshot here._
-
-### Customer Management
-
-_Add customer management screenshot here._
-
-### Business Operations
-
-_Add business operations screenshot here._
-
-### Reports
-
-_Add reports screenshot here._
-
----
-
 ## 🚧 Current Project Status
 
 ### Completed
