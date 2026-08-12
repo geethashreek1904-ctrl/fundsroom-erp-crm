@@ -197,6 +197,27 @@ npm run dev
 The backend runs as a Node.js/TypeScript service.
 
 ---
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](./login%20page.png)
+
+### 📊 Dashboard
+![Dashboard](./Dashboard.png)
+
+### 👨‍💼 Employee Management
+![Employee Management](./employee%20management.jpeg)
+
+### 👥 Customer Management
+![Customer Management](./customer%20management.jpeg)
+
+### 💼 Business Operations
+![Business Operations](./business%20operation.jpeg)
+
+### 📈 Reports
+![Reports](./reports.jpeg)
+
+---
 
 ## 🚧 Current Project Status
 
